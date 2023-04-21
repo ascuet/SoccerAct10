@@ -5,7 +5,7 @@ SoccerAct10 is a video action recognition dataset consisting of 10 soccer action
 ![corner](https://github.com/ascuet/SoccerAct10/blob/main/preview/corner.gif) ![foul](https://github.com/ascuet/SoccerAct10/blob/main/preview/foul.gif) ![freekick](https://github.com/ascuet/SoccerAct10/blob/main/preview/freekick.gif) ![goalkick](https://github.com/ascuet/SoccerAct10/blob/main/preview/goalkick.gif) ![longpass](https://github.com/ascuet/SoccerAct10/blob/main/preview/longpass.gif) ![ontarget](https://github.com/ascuet/SoccerAct10/blob/main/preview/ontarget.gif) ![penalty](https://github.com/ascuet/SoccerAct10/blob/main/preview/penalty.gif) ![shortpass](https://github.com/ascuet/SoccerAct10/blob/main/preview/shortpass.gif) ![substitution](https://github.com/ascuet/SoccerAct10/blob/main/preview/substitution.gif) ![throwin](https://github.com/ascuet/SoccerAct10/blob/main/preview/throwin.gif)
 
 ## Dataset Access
-The dataset can be used only for the research purposes. If you need the dataset for your research work, please email at: aniksen.cuet09@gmail.com
+The dataset can be used only for the research purpose. If you need the dataset for your research work, please email at: aniksen.cuet09@gmail.com
 
 ## Announcement
 The redundant samples of different soccer actions will be removed in the upcoming release. 
